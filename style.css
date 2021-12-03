@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+
+html{
+    font-family: 'New Rocker', cursive;
+}
+
+
+
+
+#GAZIR{
+    background-color: black;
+color: whitesmoke;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+
+
+#GAZIR > img{
+width: 150px;
+
+}
+
+#GAZIR > ul{
+display: flex;
+flex-direction: row;
+list-style: none;
+}
+
+#GAZIR > ul > li {
+margin: 25px;
+}
+
+#banner{
+    max-width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+#hey > button 
+
+}
